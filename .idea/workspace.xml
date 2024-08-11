@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f1d0395-ccaf-4d6d-a711-f211f9ecdbd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personajes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/JuegoMercado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/controlador/ControladorCreacionPersonaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/controlador/ControladorMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/controlador/ControladorVentanas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/Builder/ComercianteBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/Builder/PersonajeBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/Personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/PersonajeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/cybersys/videojuego_javafx/modelo/PersonajeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/_79a28867-8c2e-41ae-a45a-0c121b999517.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/comerciante_parado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/fondo2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/granjero_parado (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/granjero_parado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/logo_principal_juegomercado.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/soldado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/soldado_parado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagenes/soldado_parado_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tech/cybersys/videojuego_javafx/vista/CrearPersonaje-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tech/cybersys/videojuego_javafx/vista/Juego-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tech/cybersys/videojuego_javafx/vista/menu-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JhonSalgado22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dtcsrni/POO_Videojuego_JavaFX.git",
+    "accountId": "461f4fd3-5c1f-4967-9b2a-da467892f8d6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kV0NzV6M6ZrrLJQLI6VjQdbC5Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JuegoMercado.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salga\IdeaProjects\POO_Videojuego_JavaFX\src\main\resources\tech\cybersys\videojuego_javafx\vista" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tech.cybersys.videojuego_javafx.modelo.Builder" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f1d0395-ccaf-4d6d-a711-f211f9ecdbd8" name="Changes" comment="" />
+      <created>1723353402921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723353402921</updated>
+    </task>
+    <servers />
+  </component>
+</project>
